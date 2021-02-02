@@ -1,1 +1,1 @@
-echo "Build at" $date
+echo "Build at" $(date)
